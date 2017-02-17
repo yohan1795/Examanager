@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Android\\Examanager\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_navigation_main.xml",
+        "source": "E:\\Android\\Examanager\\app\\res\\menu\\menu_navigation_main.xml"
+    },
+    {
+        "merged": "E:\\Android\\Examanager\\app\\build\\intermediates\\res\\merged\\debug\\menu\\sf__clear_custom_url.xml",
+        "source": "E:\\Android\\Examanager\\app\\build\\intermediates\\exploded-aar\\Examanager.libs\\SalesforceSDK\\unspecified\\res\\menu\\sf__clear_custom_url.xml"
+    },
+    {
+        "merged": "E:\\Android\\Examanager\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_navigation_exam.xml",
+        "source": "E:\\Android\\Examanager\\app\\res\\menu\\menu_navigation_exam.xml"
+    },
+    {
+        "merged": "E:\\Android\\Examanager\\app\\build\\intermediates\\res\\merged\\debug\\menu\\sf__login.xml",
+        "source": "E:\\Android\\Examanager\\app\\build\\intermediates\\exploded-aar\\Examanager.libs\\SalesforceSDK\\unspecified\\res\\menu\\sf__login.xml"
+    }
+]

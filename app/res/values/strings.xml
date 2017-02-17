@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="account_type">com.yohan.examanager.login</string>
+    <string name="app_name"><b>Examanager</b></string>
+    <string name="app_package">com.yohan.examanager</string>
+    <string name="welcome">Welcome %s</string>
+
+    <string name="nav_main_profile">Profile</string>
+    <string name="nav_main_upcoming_exams">Upcoming Exams</string>
+    <string name="nav_main_my_exams">My Exams</string>
+    <string name="nav_main_completed_exams">Completed Exams</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="details_date">Date :- </string>
+    <string name="details_duration">Duration :- </string>
+    <string name="details_description">Description</string>
+    <string name="details_eligibility">Eligibility</string>
+    <string name="details_syllabus">Syllabus</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet.</string>
+    <string name="lorem_ipsum_long">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc consequat elit non velit fringilla, tristique auctor augue condimentum. Sed sed porta augue. Nam ultrices sit amet velit non bibendum. Integer congue leo libero, feugiat rutrum sem ultrices quis. Donec quis pulvinar justo. Quisque maximus velit eget lacinia pellentesque. Proin venenatis augue nibh. Curabitur id placerat dolor.  Cras non arcu justo. Etiam sem est, dictum nec dictum a, laoreet in leo. Vestibulum et tristique nisl, a cursus ante. Mauris pharetra tellus non ante pretium, semper pellentesque nisl bibendum. Aenean vel porttitor eros. Maecenas massa quam, suscipit eu elit id, ornare porta mauris. Vivamus nec faucibus magna. Proin non odio vitae orci lobortis vulputate. Donec vitae condimentum felis, vitae ornare ex. Sed eu turpis augue. Integer id lobortis neque, pretium volutpat quam. Quisque ullamcorper et ex ut ultrices. In hac habitasse platea dictumst. Sed eros magna, euismod a arcu et, euismod molestie lacus. Nulla congue rhoncus purus quis porta.  Etiam sed fringilla arcu, non maximus augue. Phasellus lobortis hendrerit massa id rutrum. Phasellus placerat lacus sem, et auctor massa mollis quis. Donec sem leo, tincidunt condimentum nisi in, sagittis pulvinar lacus. In ac ante non magna lacinia mollis sed ac nisl. Donec tempus pretium placerat. Maecenas dui lectus, scelerisque et sapien eget, consequat dapibus est. Nulla cursus orci nisl. Aenean quis enim viverra, posuere sapien quis, pharetra sapien. In ac metus sed purus tincidunt imperdiet a et orci.  Suspendisse magna mi, accumsan sit amet efficitur eget, sagittis in justo. Nam id metus in tortor lobortis dapibus. Curabitur fermentum lacus at lobortis tristique. Duis mollis dolor id porta finibus. Nullam et sem vitae ex egestas elementum. Nullam sodales ac erat at fermentum. Integer efficitur ligula eros, at suscipit magna feugiat ut.  Sed convallis lorem nec urna egestas, id fermentum mauris consectetur. Nullam arcu elit, tristique vel enim a, pulvinar pulvinar urna. Nulla nec nibh interdum, feugiat ligula id, convallis arcu. Fusce condimentum viverra leo quis tincidunt. Cras at posuere justo. Vestibulum pharetra quam id lacus ultrices, ut fringilla nisi scelerisque. Nam semper erat in viverra viverra. Aliquam eu maximus nunc. Aliquam erat volutpat. Duis finibus rhoncus tellus nec gravida.</string>
+
+    <string name="form_fetch">Fetch from profile</string>
+    <string name="form_submit">Submit form</string>
+
+    <string name="nav_exam_review">Review</string>
+    <string name="nav_exam_ask_for_examiner">Ask for Examiner</string>
+    <string name="nav_exam_instructions">Instructions</string>
+    <string name="nav_exam_submit">Submit</string>
+    <string name="nav_logout">Logout</string>
+    <string name="instructions">Instructions</string>
+    <string name="instructions_start">Start</string>
+    <string name="candidate_details">Candidate Details</string>
+    <string name="question_qno">Q.No.</string>
+    <string name="titlebar_my_exams">My Exams</string>
+    <string name="titlebar_completed_exams">Completed Exams</string>
+    <string name="titlebar_upcoming_exams">Upcoming Exams</string>
+    <string name="titlebar_profile">Profile</string>
+    <string name="profile_id">Id</string>
+    <string name="profile_name">Name</string>
+    <string name="profile_gender">Gender</string>
+    <string name="profile_dob">Date of birth</string>
+    <string name="profile_aadhar_no">Aadhar No</string>
+    <string name="profile_contact_no">Contact</string>
+    <string name="profile_email">Email</string>
+    <string name="profile_edit">Edit</string>
+    <string name="profile_save">Save</string>
+    <string name="details_contact">Contact :-</string>
+    <string name="details_marks">Marks :-</string>
+    <string name="details_time">Time :-</string>
+
+</resources>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Android\\Examanager\\app\\build\\intermediates\\res\\merged\\debug\\xml\\servers.xml",
+        "source": "E:\\Android\\Examanager\\app\\build\\intermediates\\exploded-aar\\Examanager.libs\\SalesforceSDK\\unspecified\\res\\xml\\servers.xml"
+    },
+    {
+        "merged": "E:\\Android\\Examanager\\app\\build\\intermediates\\res\\merged\\debug\\xml\\authenticator.xml",
+        "source": "E:\\Android\\Examanager\\app\\build\\intermediates\\exploded-aar\\Examanager.libs\\SalesforceSDK\\unspecified\\res\\xml\\authenticator.xml"
+    },
+    {
+        "merged": "E:\\Android\\Examanager\\app\\build\\intermediates\\res\\merged\\debug\\xml\\app_restrictions.xml",
+        "source": "E:\\Android\\Examanager\\app\\build\\intermediates\\exploded-aar\\Examanager.libs\\SalesforceSDK\\unspecified\\res\\xml\\app_restrictions.xml"
+    }
+]

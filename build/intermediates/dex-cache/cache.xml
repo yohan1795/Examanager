@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_09099759ed395eb52ad4cfe7bc7b822461156826\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton-butterknife-8.4.0_2d082ead5f16f876dadd1ad23cae729b322761f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_53ec3028e62b4b3860dc4b5b68f81647bca88a70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_325dac7b8023436aa2e17fb57e7138988e0ddb6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_d849247e7720c2a779f89e736163b0c9629cdc8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.1_2b1ce8b322e9fb0c385752650620c95fe4f2c6b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_273a4f8b5dc36b5d61fcb7eb4c9f172c17d1e28f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_99b7078d3d0e8fbe7b2199662fb4d5c1df62891f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.4.0_1802ca162fb40973fbb37a0c2bed686e25b76792\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.1_81ee4ddc36c23756b0e38be175c0140999a4feab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_f2bd19082c797d9c56ecfd92c39d0d37bb0caa97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_474a81dc0512174daf04beff86490753910ceaa5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_9fcf920a93e47e2ab8ed4f7c6cbe99bb3365d9e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_f8785bb489459018c220eaea0dfaeec69c56dd6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.2_17f93f1080f2d732a90a405ee1672a1a33a238fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_01f65ada55809deae4911dcf5b6cefbecc44ca1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_86293680b71eee4c0a68ae6ddf840260baf73a1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_ebfc922acf6197b32e4b4de073ba8f15790e7944\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_7298a9e327661203309a398c55c93c4a415b2689\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_960bc07408359ee1f619253b5a288f262666e29e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_7c59555db46ab593c551cb6d88cd765abd5da803\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_96bd1eae098f2c572e4808db101808d0e89f8dda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_5b6896179a591b327fb7dda7f2e9553b3556c8ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_29102c2dbc205dfd2f2cbef13664806dcd016dfd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.1.1_9d52778c2e928ab71b01f87ed4cf8a362e8e7eaa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_9bdfa9608cf8eaacd96fa9263851bf0fbdcdcc0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_7acad8ae7846ab3d0d97dbfa3e0078be419018ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_9b637c74a0967de0eeb1d574ecd9d6a5ef1bfe41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_62188025085a6e53b6c0592e4c14f0ebed1214a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_8ce2ef4ce2be7931cc0982d17114ed90b3625195\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_ecd520b04d94eda98b145e6c0a59cbd6c0b00073\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_a7b384a27957d3898dd3ad171660cc4f6e1deae8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_0e397eace2653132e4b8c264ba041b21dd127223\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_4c5c7d20f735e12dd8ce4510d6de363513957286\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_7a316c151bd1315b18bebb03ecd1485971644d99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_2e5aa62f37a1b197bce7b131abdecf5945298d60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_682965aea7d9e209f91136924e156990e9524604\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_69a1677b7dfb34a2a7f739ec942e8fe56beac41c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_77352c10ea6ae31cbdfa05fe5dcddcc01e51d241\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ff6109503360d3b9c64bf2ca62e86b913166bb50">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_80dc3aa162add2b7c0a9596344e2105281ef3a77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_0fb24f1729887e64903e26c6ec3bc88cc8927ae1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_7b399ea48022ed2d9076393cc6d90ca7c48c7722\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_12ea1c587b47d1eccdb9eb75799d4910dd4f2b33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_81d22f4902ee04887a71f8698c6e53637bdb4b6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_f8632dbaaf94f518f4d26d9eeb3ea45f1e586a97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_942327b5265c1a8203570c2dbc750361f37f82eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_93edbbf74118eb52e8541033ea3544e1c526d828\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.2_bfeff8edfd6ebca28e9c6d2424865fea94f36009\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_f46089e01236d0fa67389e5e361d2670effa8e78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.1_7cd22539291c5311facef21e6d5423002ed562c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_e9f6e4512265bbfa5eb6eddfb3682557062bfce3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_9a75836f9a51ffb8bdabc9ec9154b527f001e344\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_b7d919831ce37c2aee1b4a9b658fbaa69af4fc2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_d6b01370dfc8c7eef1e90690ab18e5af30106b32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a72e58229290cedf25fbd9dd650e7b27e6b6269d">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_52e0beceaabb047d3841eaba30584a251e5a6ce1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_7a242ac41c44d0b3f7b39b76beaf8640b1fe1a04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_196b7234e697b6808541b96143d6583b792e7536\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.1_7b7486797a58b4bc8ba03021469bf60e61d529ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_15fe023a7f9ba26e6216249af23c2cf25a857b81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\net.zetetic\android-database-sqlcipher\3.5.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e7ecee496793b4020ffe5052331a7efb075f5a73">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\net.zetetic-android-database-sqlcipher-3.5.2_ecf30e2af8a6cf5246578075811dec7bab358f7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_1db451f8ad2ffc193bf566c352ed2b24f6f50dd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_f24aa56646b44c40f2908b28a9c74c9f8fc3f996\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_f9fdbd4c817a38cf1d218dbd2a62af0d646fe955\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_7a8ab04f1ca4baecac53b57efaee35d0b05292c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_d0eb96f2820c62829796ce85f12368fd0d059529\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_eccbd13ae916d2b077e60f6a3588b8555b4e99ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_8b73953a1901d1caf2cf360bd75d214d9e55cdfa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_4bd2b83559089004e2d92c677927eff3fcb9911f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_b5321283704670df2eefcddcb21118224b560893\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_abc46e237295b43bdc58076268bb94a87ead24cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_301cc7990a1f7d39b728b5ac8852623f2aaf5bad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_ac3518ec7ef12b74ed098ce11e1d773db3603e15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_302d21540b2c978007b536044c8b21bccff55c45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_7bc31c6402415c307ed3c7194f71f285097f26b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\Examanager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="E:\Android\Examanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_995c7ce6db0aaebc0ced65abf51b1e09db2f0a70\classes.dex" />
+    </item>
+
+</items>
