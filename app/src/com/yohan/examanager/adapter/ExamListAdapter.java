@@ -13,6 +13,7 @@ import android.widget.Toast;
 import com.yohan.examanager.R;
 import com.yohan.examanager.activity.MainActivity;
 import com.yohan.examanager.fragment.CompletedExamsFragment;
+import com.yohan.examanager.fragment.DetailFragment;
 import com.yohan.examanager.fragment.MyExamsFragment;
 import com.yohan.examanager.fragment.UpcomingExamsFragment;
 import com.yohan.examanager.model.ExamItem;
@@ -60,16 +61,7 @@ public class ExamListAdapter extends RecyclerView.Adapter<ExamListAdapter.ExamVi
                 Bundle bundle = new Bundle();
                 bundle.putSerializable("exam", examList.get(position));
                 bundle.putString("source", tag);
-                Fragment fragment ;
-                if(tag.equals(UPCOMING_EXAMS)){
-                    fragment = new UpcomingExamsFragment();
-                } else if(tag.equals(MY_EXAMS)){
-                    fragment = new MyExamsFragment();
-                } else if(tag.equals(COMPLETED_EXAMS)){
-                    fragment = new CompletedExamsFragment();
-                } else {
-                    fragment = new Fragment();
-                }
+                Fragment fragment = new DetailFragment();
                 fragment.setArguments(bundle);
 
                 ((MainActivity)context).addFragment(fragment, tag);

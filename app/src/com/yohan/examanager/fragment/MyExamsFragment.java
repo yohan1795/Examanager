@@ -63,7 +63,7 @@ public class MyExamsFragment extends Fragment {
 
         Log.e("token", token);
 
-        Call<String> myExamsCall = apiInterface.getCall("Bearer " + token, "myexams", "Cd-00000001");
+        Call<String> myExamsCall = apiInterface.getCall("Bearer " + token, "myexams", userId);
         myExamsCall.enqueue(new Callback<String>() {
             @Override
             public void onResponse(Call<String> call, Response<String> response) {

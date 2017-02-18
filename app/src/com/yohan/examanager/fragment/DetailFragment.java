@@ -9,9 +9,11 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import com.yohan.examanager.R;
+import com.yohan.examanager.activity.MainActivity;
 import com.yohan.examanager.model.ExamItem;
 
 import butterknife.BindView;
+import butterknife.ButterKnife;
 
 /**
  * Created by Yohan on 03-02-17.
@@ -46,15 +48,16 @@ public class DetailFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_exam_detail, container, false);
+        ButterKnife.bind(this, view);
         Bundle bundle = getArguments();
         exam = (ExamItem) bundle.getSerializable("exam");
         source = bundle.getString("source");
-
-        if(source.equalsIgnoreCase("upcomingexams")){
+        ((MainActivity) getContext()).setTitle(exam.getName());
+        if(source.equalsIgnoreCase("Upcoming Exams")){
             buttonTag = "enroll";
-        } else if(source.equalsIgnoreCase("myexams")){
+        } else if(source.equalsIgnoreCase("My Exams")){
             buttonTag = "navigate";
-        } else if(source.equalsIgnoreCase("completedexams")){
+        } else if(source.equalsIgnoreCase("Completed Exams")){
             buttonTag = "result";
         }
         submit.setText(buttonTag);
